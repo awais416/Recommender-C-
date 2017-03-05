@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1488163324 source:h:\c++ materials\recommender\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<iomanip>
+	<string.h>
+
